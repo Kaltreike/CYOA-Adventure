@@ -12,4 +12,6 @@ My next priority from here will be to use code to establish inclusive paths that
 
 If you have any insights to offer, or corrections to make, please feel free.
 
+I set up this branch specifically to hear what you have to say.
+
 Jim Aspinall - 2019
